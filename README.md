@@ -29,6 +29,4 @@ Mongoose – Handling schema design, validation, middleware, and database intera
 ⚠️ Custom Error Handling for improved reliability.
 📱 Fully Responsive Design optimized for desktop, tablet, and mobile devices.
 🏗️ Structured MVC Architecture for better code organization and maintainability. 
-![Uploading Screenshot 2026-06-18 074343.png…]()
-
 
