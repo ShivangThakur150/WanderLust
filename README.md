@@ -90,19 +90,3 @@ Inspired by modern travel and booking platforms, Wanderlust offers an intuitive 
 * CRUD Operations for Listings
 * MongoDB Database Management
 * MVC Architecture Implementation
-
----
-
-## 🎯 Learning Outcomes
-
-Through the development of Wanderlust, I gained practical experience in:
-
-* Full-Stack Web Development
-* RESTful API Design
-* Authentication & Authorization
-* Database Design and Management
-* MVC Architecture
-* Session and Cookie Management
-* Responsive Web Design
-* Error Handling and Validation
-* Deployment and Project Structuring
