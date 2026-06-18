@@ -20,7 +20,7 @@ MongoDB – Serving as the primary NoSQL database for storing user and listing i
 Mongoose – Handling schema design, validation, middleware, and database interactions.
 
 ✨ Key Features
-🌍 Browse hotel and accommodation listings from different cities worldwide.
+🌍 Browse hotel and accommodation listings from different cities worldwide. 
 👤 User Registration, Login, and Logout functionality.
 🔐 Secure Authentication and Authorization.
 🏠 Create, Edit, View, and Delete Listings (CRUD Operations).
