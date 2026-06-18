@@ -21,6 +21,7 @@ Mongoose – Handling schema design, validation, middleware, and database intera
 
 ✨ Key Features
 🌍 Browse hotel and accommodation listings from different cities worldwide. 
+
 👤 User Registration, Login, and Logout functionality.
 🔐 Secure Authentication and Authorization.
 🏠 Create, Edit, View, and Delete Listings (CRUD Operations).
